@@ -1,4 +1,4 @@
-API_KEY = 'j0KM38r2RtXeWZqwBTiuWpRmdUZ0TalOjjSIbKBt8Nuk5ErBpCeXGHohZ1bQwcUE'
-API_SECRET = 'AivVhY4Lfn1yZn0C4OWUyY5y6TQyVP7sEQECgdNQ8D8mU0JMRPjM3tSNxXDdxz5i'
+API_KEY = 'your_api_key'
+API_SECRET = 'your_secret_key'
 BASE_URL = 'https://api.binance.com'
 TIMEOUT = 30  # seconds
