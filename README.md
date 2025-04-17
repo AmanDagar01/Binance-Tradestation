@@ -1,5 +1,3 @@
-# binance-trading-bot/binance-trading-bot/README.md
-
 # Binance Trading Bot
 
 This project is a Python application that interacts with the Binance API to manage trading operations. It allows users to create and cancel orders, view existing orders and positions, and subscribe to ticker updates for a specified duration.
