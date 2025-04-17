@@ -14,7 +14,7 @@ This project is a Python application that interacts with the Binance API to mana
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/binance-trading-bot.git
+   git clone https://github.com/AmanDagar01/Binance-Tradestation.git
    cd binance-trading-bot
    ```
 
